@@ -69,8 +69,8 @@ The dataset contains hospital admission records with key information such as:
   - A higher proportion of patients in the **"Not Readmitted"** group are discharged to **Skilled Nursing Facilities (SNFs)** or receive **home health services**, highlighting the impact of post-discharge support.  
 
 - **Demographics**  
-  - Female patients: **25.7k**  
-  - Male patients: **21.2k**  ![Filtering for Female](Female.PNG)  ![Filtered for Male](Male.PNG)
+  - Female patients: **25.7k**(Readmitted)  
+  - Male patients: **21.2k**(Readmitted)  ![Filtering for Female](Female.PNG)  ![Filtered for Male](Male.PNG)
 
 - **Primary Diagnoses**  
   - **Circulatory system diseases** dominate as the primary diagnosis for both genders.  

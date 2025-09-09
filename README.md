@@ -70,7 +70,7 @@ The dataset contains hospital admission records with key information such as:
 
 - **Demographics**  
   - Female patients: **25.7k**  
-  - Male patients: **21.2k**  ![Filtered for Female](Female.png)  ![Filtered for Male](Male.png)
+  - Male patients: **21.2k**  ![Filtering for Female](Female.PNG)  ![Filtered for Male](Male.PNG)
 
 - **Primary Diagnoses**  
   - **Circulatory system diseases** dominate as the primary diagnosis for both genders.  

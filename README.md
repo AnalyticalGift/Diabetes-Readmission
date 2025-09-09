@@ -9,7 +9,7 @@ This project analyzes hospital admissions and readmissions to uncover patterns i
 
 ## Screenshot of Dashboard  
 
-![Patient Dashboard](Dashboard.png)  
+![Patient Dashboard](Dashboard.PNG)  
 *Figure 1: Overview of patient readmission metrics.*
 
 ---
@@ -40,7 +40,7 @@ The dataset contains hospital admission records with key information such as:
 1. **Data Cleaning**  
   - **Removed irrelevant columns:** `Weight`, `Encounter ID`, and `Payer Code` to focus on meaningful features.![Patient Dashboard](snap1.png)  
   - **Cleaned Age Column:** Standardized and corrected invalid or missing age values for consistency.  
-  - **Mapped Admission Type and Source IDs:** Updated `Admission Type ID` and `Admission Source ID` according to **ICD-9 (2008)** classification for accurate analysis. Dataset from 2008 ![Patient Dashboard](Snap3.png)  
+  - **Mapped Admission Type and Source IDs:** Updated `Admission Type ID` and `Admission Source ID` according to **ICD-9 (2008)** classification for accurate analysis. Dataset from 2008 ![Patient Dashboard](snap3.png)  
   - **Created Readmission Status:** Derived a new column from the `Readmitted` column to categorize patients as **Readmitted** or **Not Readmitted**.  
 
 2. **Exploratory Data Analysis (EDA)**  
